@@ -24,7 +24,7 @@ menuIcon.onclick = () => {
     navbar.classList.toggle('active');
 };
 
-// Intégration du système MFA (récupération d'actualités)
+
 const apiKey = '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';
 
 const categories = {
